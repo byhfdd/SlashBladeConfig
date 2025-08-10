@@ -8,7 +8,6 @@ import cpw.mods.fml.common.registry.GameRegistry;
 import mods.flammpfeil.slashblade.SlashBlade;
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
-import net.minecraftforge.common.MinecraftForge;
 
 public class CommonProxy {
 
